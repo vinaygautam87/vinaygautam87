@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vinay gautam
 - 👀 I’m interested in every thing that challanges me 
-- 🌱 I’m currently learning BigData , Spark , Scala , AWS
+- 🌱 I’m currently using BigData , Spark , Scala , AWS, SQL
 - 💞️ I’m looking to collaborate on where ever I can.
 - 📫 How to reach me ... 8745052665
 
